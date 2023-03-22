@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lamizana
 
 - 👀 I’m interested in C and Python
-- 🌱 I’m currently learning shell an C
+- 🌱 Je suis actuellement à l'école 42.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
