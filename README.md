@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Lamizana
+- 👋 Bonjour, ancien conducteur d'engins de terrassement et ancien grutier je me suis reconvertit dans la programmation.
 
-- 👀 I’m interested in C and Python
-- 🌱 Je suis actuellement à l'école 42.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Je suis actuellement à l'école 42, en specialisation analyse des données et IA en python.
+- 👀 J'ai de fortes connaissances en C et C++.
+- 💞️ 
+- 📫 
 
 <!---
 Lamizana/Lamizana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
