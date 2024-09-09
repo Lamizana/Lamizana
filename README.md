@@ -2,7 +2,7 @@
 
 - 🌱 Je suis actuellement à l'école 42, en specialisation analyse des données et IA en python.
 - 👀 J'ai de fortes connaissances en C et C++.
-- 💞️ 
+- 💞️ Un peu de dessins et de guitare de temps en temps 
 - 📫 
 
 <!---
