@@ -1,7 +1,7 @@
 - 👋 Bonjour, ancien conducteur d'engins de terrassement et ancien grutier je me suis reconvertit dans la programmation.
 
 - 🌱 Je suis actuellement à l'école 42, en specialisation analyse des données et IA en python.
-- 👀 Ayant fini le cursus principal, j'ai de fortes connaissances en C et C++.
+- 👀 Ayant fini le cursus principal, j'ai acquis de solides connaissances en C et C++.
 - 💞️ Un peu de dessins et de guitare de temps en temps 
 - 📫 
 
