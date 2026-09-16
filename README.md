@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Alex Lamizana
+# Salut, moi c'est Alex Lamizana
 
 **Développeur · Data & IA · Ancien grutier reconvertis · 42 Angoulême**
 
@@ -9,7 +9,7 @@
 ![Spécialisation Data & IA](https://img.shields.io/badge/Spécialisation-Data_%26_IA-3776AB?style=for-the-badge)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Focus-2EA043?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ZehdBox-526CFE?style=for-the-badge)](https://lamizana.github.io/ZehdBox/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ZehdBox-526CFE?style=for-the-badge)](https://lamizana.github.io/ZehdBox/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-lamizana)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lamizana)
 [![Email](https://img.shields.io/badge/Email-lamizana1987@yahoo.fr-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:lamizana1987@yahoo.fr)
@@ -20,17 +20,17 @@
 
 ---
 
-## 👨‍💻 À propos
+## À propos
 
 Ancien **conducteur d'engins de terrassement** et **grutier**, reconvertis dans la programmation après avoir découvert le code par curiosité.
 
 Aujourd'hui étudiant à l'**École 42 Angoulême**, j'ai validé le tronc commun et me spécialise en **analyse de données et intelligence artificielle** (Python). J'ai acquis de solides compétences en **C** et **C++** au fil du cursus, et j'apprécie autant l'algorithme bien pensé que le pipeline de données propre.
 
-> 💡 Mon objectif : mettre la data au service de la compréhension du monde — en commençant par les données publiques françaises.
+> Mon objectif : mettre la data au service de la compréhension du monde — en commençant par les données publiques françaises.
 
 ---
 
-## 🛠️ Compétences
+## Compétences
 
 ### Langages
 
@@ -67,84 +67,18 @@ Aujourd'hui étudiant à l'**École 42 Angoulême**, j'ai validé le tronc commu
 
 ---
 
-## 📦 Projets phares
+## Projets phares
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [ZehdBox](https://github.com/Lamizana/ZehdBox) | Site vitrine & base de connaissances, portfolio, cours Python, blog technique | Python, MkDocs, GitHub Actions, GitHub Pages |
+| [ft_transcendance](https://github.com/Lamizana/ft_transcendance) | Projet final 42 — Pong multijoueur, 4 modes de jeu, tournois, multi-langue | Django, PostgreSQL, Docker, Nginx, HTML5 Canvas |
+| [Tokeniser](https://github.com/Lamizana/Tokeniser) | Token BEP-20 GOLD42 déployé sur BSC Testnet | Solidity, OpenZeppelin, MetaMask |
+| [Dashboard-population-France](https://github.com/Lamizana/Dashboard-population-France) | Dashboard Streamlit sur les données data.gouv.fr — population, violences faites aux femmes | Python, Streamlit, Pandas |
+| [Minishell](https://github.com/Lamizana/Minishell) | Interpréteur de commandes style bash — builtins, pipes, redirections, signaux | C, libft, readline |
+| [ft_irc](https://github.com/Lamizana/ft_irc) | Serveur IRC RFC 1459, multi-clients, modes de canaux, bot PPC | C++, TCP/IP, select() |
 
-### 🌐 [ZehdBox](https://github.com/Lamizana/ZehdBox)
-
-> Site vitrine & base de connaissances personnelle
-
-Portfolio, cours Python, fiches projets, blog technique. Déployé avec **MkDocs + GitHub Actions** sur GitHub Pages.
-
-`Python` `MkDocs` `GitHub Actions` `GitHub Pages`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🏓 [ft\_transcendance](https://github.com/Lamizana/ft_transcendance)
-
-> Projet final du tronc commun 42
-
-Application web **Pong multijoueur** — 4 modes de jeu, profils, amis, tournois, multi-langue.
-
-`Django` `PostgreSQL` `Docker` `Nginx` `HTML5 Canvas`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🪙 [Tokeniser](https://github.com/Lamizana/Tokeniser)
-
-> Token BEP-20 sur la BNB Smart Chain
-
-Token **GOLD42** déployé sur BSC Testnet avec OpenZeppelin. Mint, burn, transfer, transferOwnership.
-
-`Solidity` `OpenZeppelin` `MetaMask` `BscScan`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📊 [Dashboard-population-France](https://github.com/Lamizana/Dashboard-population-France)
-
-> Analyse de données publiques françaises
-
-Dashboard **Streamlit** sur les données `data.gouv.fr` — population, violences faites aux femmes.
-
-`Python` `Streamlit` `Pandas` `Data Visualization`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🐚 [Minishell](https://github.com/Lamizana/Minishell)
-
-> Interpréteur de commandes en C
-
-Shell minimaliste similaire à bash — builtins, pipes, redirections, signaux.
-
-`C` `libft` `readline` `Makefile`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 💬 [ft\_irc](https://github.com/Lamizana/ft_irc)
-
-> Serveur IRC en C++98
-
-Serveur IRC complet (RFC 1459) — multi-clients, modes de canaux, bot Pierre-Papier-Ciseaux.
-
-`C++` `Réseau` `TCP/IP` `select()`
-
-    </td>
-  </tr>
-</table>
-
-### 🕹️ Autres projets 42
+### Autres projets 42
 
 | Projet | Description | Langage |
 |--------|-------------|---------|
@@ -156,7 +90,7 @@ Serveur IRC complet (RFC 1459) — multi-clients, modes de canaux, bot Pierre-Pa
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
@@ -170,42 +104,42 @@ Serveur IRC complet (RFC 1459) — multi-clients, modes de canaux, bot Pierre-Pa
 
 ---
 
-## 🧭 Parcours
+## Parcours
 
 ```
-🚜 Ancien grutier / conducteur d'engins
-        ↓
-💻 École 42 — Tronc commun (C, C++, systèmes, algorithmique)
-        ↓
-📊 Spécialisation Data & IA (Python, ML, dashboards)
-        ↓
-🚀 En route : machine learning, data engineering, open source
+Ancien grutier / conducteur d'engins
+ ↓
+École 42 — Tronc commun (C, C++, systèmes, algorithmique)
+ ↓
+Spécialisation Data & IA (Python, ML, dashboards)
+ ↓
+En route : machine learning, data engineering, open source
 ```
 
 ---
 
-## 📚 En train d'apprendre
+## En train d'apprendre
 
-- 🧠 Machine Learning avec Scikit-learn
-- 📈 Data Engineering & pipelines de données
-- 🌐 Développement web full-stack
-- 🤖 Exploration de l'IA générative
+- Machine Learning avec Scikit-learn
+- Data Engineering & pipelines de données
+- Développement web full-stack
+- Exploration de l'IA générative
 
 ---
 
-## 🎨 Hobbies
+## Hobbies
 
 Quand je ne code pas :
 
-🎨 Dessin · 🎸 Guitare · 💡 Curiosité sans limites
+Dessin · Guitare · Curiosité sans limites
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-526CFE?style=for-the-badge)](https://lamizana.github.io/ZehdBox/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-526CFE?style=for-the-badge)](https://lamizana.github.io/ZehdBox/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lamizana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-lamizana)
 [![Email](https://img.shields.io/badge/Email-lamizana1987@yahoo.fr-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:lamizana1987@yahoo.fr)
@@ -216,6 +150,6 @@ Quand je ne code pas :
 
 <div align="center">
 
-![Footer](https://img.shields.io/badge/Fait_avec_❤️_et_☕-par_Alex_Lamizana-000000?style=for-the-badge)
+![Footer](https://img.shields.io/badge/Fait_avec_le_coeur_et_du_cafe_par_Alex_Lamizana-000000?style=for-the-badge)
 
 </div>
