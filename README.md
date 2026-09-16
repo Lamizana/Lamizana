@@ -7,14 +7,9 @@
 ![École 42](https://img.shields.io/badge/École_42-Angoulême-000000?style=for-the-badge&logo=42&logoColor=white)
 ![Reconversion](https://img.shields.io/badge/Reconversion-Ancien_grutier-00A676?style=for-the-badge)
 ![Spécialisation Data & IA](https://img.shields.io/badge/Spécialisation-Data_%26_IA-3776AB?style=for-the-badge)
+
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Focus-2EA043?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ZehdBox-526CFE?style=for-the-badge)](https://lamizana.github.io/ZehdBox/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-lamizana)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lamizana)
-[![Email](https://img.shields.io/badge/Email-lamizana1987@yahoo.fr-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:lamizana1987@yahoo.fr)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Lamizana&color=79C0FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
