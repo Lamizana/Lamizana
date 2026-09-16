@@ -84,8 +84,8 @@ Serveur **IRC en C++98** (RFC 1459), multi-clients, modes de canaux, gestion par
 
 ## Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Lamizana&show_icons=true&rank_icon=github)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamizana&layout=compact)
+![Stats GitHub](https://ghstats.vercel.app/api?username=Lamizana)
+![Top Langages](https://github-readme-stats-api.vercel.app/api/top-langs?username=Lamizana&layout=compact)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lamizana)
 
 ---
