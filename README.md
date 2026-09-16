@@ -26,7 +26,8 @@ Ancien **conducteur d'engins de terrassement** et **grutier**, reconvertis dans 
 
 Aujourd'hui étudiant à l'**École 42 Angoulême**, j'ai validé le tronc commun et me spécialise en **analyse de données et intelligence artificielle** (Python). J'ai acquis de solides compétences en **C** et **C++** au fil du cursus, et j'apprécie autant l'algorithme bien pensé que le pipeline de données propre.
 
-> Mon objectif : mettre la data au service de la compréhension du monde — en commençant par les données publiques françaises.
+> [!NOTE]
+> **Mon objectif** : mettre la data au service de la compréhension du monde — en commençant par les données publiques françaises.
 
 ---
 
@@ -72,10 +73,10 @@ Aujourd'hui étudiant à l'**École 42 Angoulême**, j'ai validé le tronc commu
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [ZehdBox](https://github.com/Lamizana/ZehdBox) | Site vitrine & base de connaissances, portfolio, cours Python, blog technique | Python, MkDocs, GitHub Actions, GitHub Pages |
-| [ft_transcendance](https://github.com/Lamizana/ft_transcendance) | Projet final 42 — Pong multijoueur, 4 modes de jeu, tournois, multi-langue | Django, PostgreSQL, Docker, Nginx, HTML5 Canvas |
+| [ft_transcendance](https://github.com/Lamizana/ft_transcendance) | Projet final 42: Pong multijoueur, 4 modes de jeu, tournois, multi-langue | Django, PostgreSQL, Docker, Nginx, HTML5 Canvas |
 | [Tokeniser](https://github.com/Lamizana/Tokeniser) | Token BEP-20 GOLD42 déployé sur BSC Testnet | Solidity, OpenZeppelin, MetaMask |
-| [Dashboard-population-France](https://github.com/Lamizana/Dashboard-population-France) | Dashboard Streamlit sur les données data.gouv.fr — population, violences faites aux femmes | Python, Streamlit, Pandas |
-| [Minishell](https://github.com/Lamizana/Minishell) | Interpréteur de commandes style bash — builtins, pipes, redirections, signaux | C, libft, readline |
+| [Dashboard-population-France](https://github.com/Lamizana/Dashboard-population-France) | Dashboard Streamlit sur les données data.gouv.fr: population, violences faites aux femmes | Python, Streamlit, Pandas |
+| [Minishell](https://github.com/Lamizana/Minishell) | Interpréteur de commandes style bash: builtins, pipes, redirections, signaux | C, libft, readline |
 | [ft_irc](https://github.com/Lamizana/ft_irc) | Serveur IRC RFC 1459, multi-clients, modes de canaux, bot PPC | C++, TCP/IP, select() |
 
 ### Autres projets 42
@@ -140,8 +141,7 @@ Dessin · Guitare · Curiosité sans limites
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-526CFE?style=for-the-badge)](https://lamizana.github.io/ZehdBox/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lamizana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-lamizana)
+
 [![Email](https://img.shields.io/badge/Email-lamizana1987@yahoo.fr-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:lamizana1987@yahoo.fr)
 
 </div>
