@@ -21,9 +21,6 @@ Ancien **conducteur d'engins de terrassement** et **grutier**, reconvertis dans 
 
 Aujourd'hui étudiant à l'**École 42 Angoulême**, j'ai validé le tronc commun et me spécialise en **analyse de données et intelligence artificielle** (Python). J'ai acquis de solides compétences en **C** et **C++** au fil du cursus, et j'apprécie autant l'algorithme bien pensé que le pipeline de données propre.
 
-> [!NOTE]
-> **Mon objectif** : mettre la data au service de la compréhension du monde — en commençant par les données publiques françaises.
-
 ---
 
 ## Compétences
