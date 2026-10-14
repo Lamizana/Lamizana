@@ -10,8 +10,6 @@
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Focus-2EA043?style=for-the-badge)
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/alamizan?UM6P=off" alt="alamizan's 42 stats" /></a>
-
 </div>
 
 ---
