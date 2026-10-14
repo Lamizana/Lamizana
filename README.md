@@ -82,20 +82,6 @@ Aujourd'hui étudiant à l'**École 42 Angoulême**, j'ai validé le tronc commu
 
 ---
 
-## Statistiques GitHub
-
-<div align="center">
-
-![Stats GitHub](https://ghstats.vercel.app/api?username=Lamizana)
-
-![Top Langages](https://github-readme-stats-api.vercel.app/api/top-langs?username=Lamizana&layout=compact)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lamizana)
-
-</div>
-
----
-
 ## Parcours
 
 ```
