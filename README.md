@@ -94,6 +94,10 @@ En dehors du code :
 
 ## Contact
 
+<div align="center">  
+  
 [![Portfolio](https://img.shields.io/badge/Portfolio-526CFE?style=for-the-badge)](https://lamizana.github.io/ZehdBox/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:lamizana1987@yahoo.fr)
+
+</div>
 
 ---
